@@ -1,4 +1,3 @@
-print("plugins")
 local fn = vim.fn
 
 -- Automatically install packer
